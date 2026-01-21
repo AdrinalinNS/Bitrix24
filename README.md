@@ -127,7 +127,6 @@ $bitrixWebhook = 'https://your-domain.bitrix24.ru/rest/1/token/';
 $generalChatId = _; 
 $chatMessageId = '__';
 $logChatId = '__';
-$chatFileId = $generalChatId; 
 ?>
 ```
 
