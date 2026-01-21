@@ -53,7 +53,7 @@ Error Handling - для логирования ошибок:
 
 ## Отредактируйте php.ini для корректного времени 
 
-пример
+пример /etc/php/8.2/cli/php.ini
 
 date.timezone = "Asia/Vladivostok"
 
