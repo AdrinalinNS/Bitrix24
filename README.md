@@ -138,11 +138,3 @@ $iamToken = 'your_yandex_gpt_api_key';
 $yandexGptFolderId = 'your_yandex_cloud_folder_id';
 ?>
 ```
-
-### Описание параметров bitrix24_config.php
-
-- `$bitrixWebhook` - URL вебхука для доступа к Bitrix24 API
-- `$generalChatId` - ID общего чата без префикса "chat", используется для отправки файлов в чат
-- `$chatMessageId` - ID общего чата с префиксом "chat" и в одинарных ковычках, используется для отправки текстовых сообщений
-- `$logChatId` - ID чата для логов с префиксом "chat" и в одинарных ковычках
-- `$chatFileId` - ID чата для отправки файлов (по умолчанию равен $generalChatId)
